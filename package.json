@@ -6,7 +6,7 @@
   "homepage": "http://paperjs.org",
   "repository": {
     "type": "git",
-    "url": "git://github.com/paperjs/paper-jsdom-canvas"
+    "url": "https://github.com/paperjs/paper-jsdom-canvas"
   },
   "bugs": "https://github.com/paperjs/paper.js/issues",
   "author": "Jürg Lehni <juerg@scratchdisk.com> (http://scratchdisk.com)",
