@@ -16,10 +16,10 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "canvas": "^2.5.0",
-    "jsdom": "^15.1.1",
+    "canvas": "^2.6.1",
+    "jsdom": "^16.2.2",
     "paper": "0.12.8",
-    "source-map-support": "^0.5.12"
+    "source-map-support": "^0.5.19"
   },
   "keywords": ["vector", "graphic", "graphics", "2d", "geometry", "bezier", "curve", "curves", "path", "paths", "canvas", "svg", "paper", "paper.js", "paperjs"]
 }
